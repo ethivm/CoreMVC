@@ -1,0 +1,151 @@
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\appsettings.Development.json
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\appsettings.json
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\DotNet5Crud.exe
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\DotNet5Crud.deps.json
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\DotNet5Crud.runtimeconfig.json
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\DotNet5Crud.runtimeconfig.dev.json
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\DotNet5Crud.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\ref\DotNet5Crud.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\DotNet5Crud.pdb
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\DotNet5Crud.Views.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\DotNet5Crud.Views.pdb
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.csproj.AssemblyReference.cache
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.GeneratedMSBuildEditorConfig.editorconfig
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.AssemblyInfoInputs.cache
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.AssemblyInfo.cs
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.csproj.CoreCompileInputs.cache
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.MvcApplicationPartsAssemblyInfo.cache
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.RazorAssemblyInfo.cache
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.RazorAssemblyInfo.cs
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\staticwebassets\DotNet5Crud.StaticWebAssets.Manifest.cache
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\staticwebassets\DotNet5Crud.StaticWebAssets.xml
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\scopedcss\bundle\DotNet5Crud.styles.css
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.TagHelpers.input.cache
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.TagHelpers.output.cache
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.RazorCoreGenerate.cache
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.RazorTargetAssemblyInfo.cache
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.RazorTargetAssemblyInfo.cs
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.Views.pdb
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\ref\DotNet5Crud.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.pdb
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.genruntimeconfig.cache
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.csproj.CopyComplete
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\Humanizer.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\Razor\Views\Employee\Details.cshtml.g.cs
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\bin\Debug\net5.0\libman.json
+D:\Youtube Videos\Videos\DotNetFacts\Long Project\ASPDotNet Core\dotnet core 5 crud\project\DotNet5Crud\obj\Debug\net5.0\Razor\Views\Employee\AddOrEdit.cshtml.g.cs
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\appsettings.Development.json
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\appsettings.json
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\libman.json
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\DotNet5Crud.exe
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\DotNet5Crud.deps.json
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\DotNet5Crud.runtimeconfig.json
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\DotNet5Crud.runtimeconfig.dev.json
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\DotNet5Crud.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\ref\DotNet5Crud.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\DotNet5Crud.pdb
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\DotNet5Crud.Views.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\DotNet5Crud.Views.pdb
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\Humanizer.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CodeSpace\NET5\DotNet5Crud\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.csproj.AssemblyReference.cache
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.GeneratedMSBuildEditorConfig.editorconfig
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.AssemblyInfoInputs.cache
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.AssemblyInfo.cs
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.csproj.CoreCompileInputs.cache
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.MvcApplicationPartsAssemblyInfo.cache
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.RazorAssemblyInfo.cache
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.RazorAssemblyInfo.cs
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\staticwebassets\DotNet5Crud.StaticWebAssets.Manifest.cache
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\staticwebassets\DotNet5Crud.StaticWebAssets.xml
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\scopedcss\bundle\DotNet5Crud.styles.css
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.TagHelpers.input.cache
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.TagHelpers.output.cache
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.RazorCoreGenerate.cache
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\Razor\Views\Employee\AddOrEdit.cshtml.g.cs
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\Razor\Views\Employee\Delete.cshtml.g.cs
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\Razor\Views\Employee\Details.cshtml.g.cs
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\Razor\Views\Employee\Index.cshtml.g.cs
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.RazorTargetAssemblyInfo.cache
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.RazorTargetAssemblyInfo.cs
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.Views.pdb
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.csproj.CopyComplete
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.dll
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\ref\DotNet5Crud.dll
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.pdb
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\DotNet5Crud.genruntimeconfig.cache
+D:\CodeSpace\NET5\DotNet5Crud\obj\Debug\net5.0\Razor\Index - Copy.cshtml.g.cs
